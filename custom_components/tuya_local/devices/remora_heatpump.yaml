@@ -21,7 +21,7 @@ entities:
         unit: C
         range:
           min: 5
-          max: 40
+          max: 60
       - id: 3
         name: current_temperature
         type: integer
@@ -69,3 +69,4 @@ entities:
       - id: 9
         type: bitfield
         name: fault_code
+
